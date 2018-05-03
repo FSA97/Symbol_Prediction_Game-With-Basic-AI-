@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="10"/>
+    <BuildModes Active="Default"/>
+    <Units Count="7">
+      <Unit0>
+        <Filename Value="Project1.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="150"/>
+        <CursorPos X="23" Y="162"/>
+        <UsageCount Value="119"/>
+        <Bookmarks Count="1">
+          <Item0 X="14" Y="177" ID="8"/>
+        </Bookmarks>
+      </Unit0>
+      <Unit1>
+        <Filename Value="C:\Users\furka\AppData\Local\Temp\Rar$DIa0.524\MainUnit.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="106"/>
+        <CursorPos X="11" Y="216"/>
+        <UsageCount Value="30"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="C:\Users\furka\AppData\Local\Temp\Rar$DIa0.168\MainUnit.pas"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="1"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="C:\Users\furka\AppData\Local\Temp\Rar$DIa0.949\MainUnit.pas"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="1"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="..\Weeks\Week 12\GoodSelection\Project1.pas"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="10"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="C:\Users\furka\Downloads\TETRIS.PAS"/>
+        <UnitName Value="tetris"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="31"/>
+        <UsageCount Value="10"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="Yeni klasör\Project1.pas"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="188"/>
+        <CursorPos X="40" Y="194"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit6>
+    </Units>
+    <JumpHistory HistoryIndex="-1"/>
+  </ProjectSession>
+  <Debugging>
+    <Watches Count="1">
+      <Item1>
+        <Expression Value="tmp"/>
+      </Item1>
+    </Watches>
+  </Debugging>
+</CONFIG>
