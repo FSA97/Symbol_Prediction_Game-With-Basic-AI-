@@ -23,10 +23,10 @@ begin
   end;
 
 
-  for i := 1 to N do begin                  //Shuffle(Verilen matrisi random karıştırır.)
+  for i := 1 to N do begin                  //Shuffle
     for j := 1 to N do begin
       temp := strtoint(A[i,j]);
-      k := random(N)+1;l := random(N)+1;    //random 2 tane indis üret
+      k := random(N)+1;l := random(N)+1;    //random 2 index
       A[i,j] := A[k,l];
       A[k,l] := inttoStr(temp);
     end;
